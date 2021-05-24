@@ -1,0 +1,5 @@
+SF2.cs - Elapsed: 00:00:00.0019075
+SimpleFactory.cs - Elapsed: 00:00:00.0021239
+FM2.cs - Elapsed: 00:00:00.0029636
+FactoryMethod.cs - Elapsed: 00:00:00.0027580
+AbstractFactory - Elapsed: 00:00:00.0028770

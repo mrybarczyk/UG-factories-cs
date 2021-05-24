@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="AbstractFactory.cs" />
+    <Compile Remove="FactoryMethod.cs" />
+    <Compile Remove="FM2.cs" />
+    <Compile Remove="SimpleFactory.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="AbstractFactory.cs" />
+    <None Include="FactoryMethod.cs" />
+    <None Include="SimpleFactory.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="FM2.cs" />
+  </ItemGroup>
+
+</Project>
